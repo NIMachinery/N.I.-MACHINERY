@@ -16,3 +16,4 @@ The website is responsive for mobile and desktop and includes:
 - Address and GSTIN
 - Click-to-call phone numbers
 - WhatsApp enquiry buttons
+- Google maps
